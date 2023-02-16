@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Project for c++\Prokliti\Prokliti\Snake.h(39,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Project for c++\Prokliti\Prokliti\main.cpp(24,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Prokliti.vcxproj -> E:\Project for c++\Prokliti\Debug\Prokliti.exe
